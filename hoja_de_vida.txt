@@ -1,0 +1,13 @@
+=== HOJA DE VIDA ===
+-- INFORMACION PERSONAL --
+Nombre: Ariel Said
+Apellido: Quinto Nevarez
+Edad: 20
+Cedula: 1750142828
+Genero: Masculino
+Estado civil: Soltero/a
+Provincia: Pichincha
+-- INFORMACION LABORAL -- 
+Cargo para postular: Programador/a- Secreatario/a
+Experiencia laboral: 3
+Referencias: Emily Armas
